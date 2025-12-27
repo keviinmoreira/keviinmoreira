@@ -1,13 +1,34 @@
 ![Banner](./banner.png)
 
-# 👋 Hi, I'm Kevin Moreira
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Full-Stack Developer and Systems Analysis student focused on building practical, scalable, and well-structured solutions.  
-I enjoy turning ideas into clean, efficient code through real-world projects.
+<p align="left"> 
+  # 👋 Hi, I'm Kevin Moreira
 
-Currently working on my personal portfolio and backend-focused applications.
+  Full-Stack Developer and Systems Analysis student focused on building practical, scalable, and well-structured solutions.  
+  I enjoy turning ideas into clean, efficient code through real-world projects.
+  
+  Currently working on my personal portfolio and backend-focused applications.
+</p>
 
----
+<p align="left">
+  🤖 Programming Languages: C/C++/C#, Python, Javascript 
+</p>
+
+<p align="left">
+  💌 Let's connect our ideas: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="contact.kevinmoreira@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/kevin-moreira-15a9ba244/" alt="LinkedIn"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="https://www.facebook.com/kevin.moreira.383323" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/moreira_keviiin/" alt="Instagram"/></a>
+</p>
 
 ## 🚀 Current Focus
 - Personal portfolio with performance and accessibility in mind  
@@ -29,19 +50,11 @@ Currently working on my personal portfolio and backend-focused applications.
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=keviinnmoreira&theme=radical&hide_border=false&count_private=true" />
+[![keviinmoreira](https://github-readme-stats.vercel.app/api?username=keviinmoreira&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keviinnmoreira&theme=radical&hide_border=false&layout=compact" />
 
 </div>
-
----
-
-## 🌐 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-moreira-15a9ba244/)
-- 💻 [GitHub](https://github.com/keviinnmoreira)
-- 📷 [Instagram](https://www.instagram.com/moreira_keviiin/)
-- 💬 [Discord](https://www.discord.gg/gcnFtFWt2g)
 
 ---
 
@@ -77,18 +90,8 @@ Atualmente trabalho no meu portfólio pessoal e em aplicações com foco em back
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=keviinnmoreira&theme=radical&hide_border=false&count_private=true" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keviinnmoreira&theme=radical&hide_border=false&layout=compact" />
 
 </div>
-
----
-
-## 🌐 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-moreira-15a9ba244/)
-- 💻 [GitHub](https://github.com/keviinnmoreira)
-- 📷 [Instagram](https://www.instagram.com/moreira_keviiin/)
-- 💬 [Discord](https://www.discord.gg/gcnFtFWt2g)
 
 ---
 
