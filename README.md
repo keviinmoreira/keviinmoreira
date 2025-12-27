@@ -2,57 +2,46 @@
 
 # 👋 Hi, I'm Kevin Moreira
 
-I'm a **Full-Stack Developer** and **Systems Analysis student** focused on building practical, scalable, and well-structured solutions.  
-I enjoy turning ideas into clean, efficient code and constantly improving my skills through real-world projects.
+Full-Stack Developer and Systems Analysis student focused on building practical, scalable, and well-structured solutions.  
+I enjoy turning ideas into clean, efficient code through real-world projects.
 
-Currently, I'm developing my **personal portfolio** and exploring modern web and backend technologies.
+Currently working on my personal portfolio and backend-focused applications.
 
 ---
 
-## 🚀 What I’m Working On
-- 🔹 Personal portfolio with a focus on performance and accessibility  
-- 🔹 Backend APIs using Python and FastAPI  
-- 🔹 Full-stack applications with modern frontend frameworks  
+## 🚀 Current Focus
+- Personal portfolio with performance and accessibility in mind  
+- Backend APIs using Python and FastAPI  
+- Full-stack applications with modern web technologies  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Core Skills
-- **Languages:** Python, JavaScript, TypeScript  
-- **Frontend:** HTML, CSS, React, Next.js  
-- **Backend:** Node.js, Django, FastAPI  
-- **Databases:** MySQL, MongoDB  
-
-### Frameworks & Tools
-- Flask, Express, Docker  
-- Git, Postman  
-- Firebase, Vercel, Google Cloud  
+**Languages:** Python, JavaScript, TypeScript  
+**Frontend:** HTML, CSS, React, Next.js  
+**Backend:** Node.js, Django, FastAPI  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, Docker, Postman, Firebase, Vercel, Google Cloud  
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevinscodes&theme=radical&hide_border=false&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=keviinnmoreira&theme=radical&hide_border=false&count_private=true" />
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinscodes&theme=radical&hide_border=false" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinscodes&theme=radical&hide_border=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keviinnmoreira&theme=radical&hide_border=false&layout=compact" />
 
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-moreira-15a9ba244/)
-- 💻 [GitHub](https://github.com/kevinscodes)
+- 💻 [GitHub](https://github.com/keviinnmoreira)
 - 📷 [Instagram](https://www.instagram.com/moreira_keviiin/)
 - 💬 [Discord](https://www.discord.gg/gcnFtFWt2g)
-
----
-
-> *"Code is not just about syntax — it's about solving real problems with clarity and intention."*
 
 ---
 
@@ -60,54 +49,47 @@ Currently, I'm developing my **personal portfolio** and exploring modern web and
 
 # 🇧🇷 Olá, eu sou o Kevin Moreira
 
-Sou **Desenvolvedor Full-Stack** e **estudante de Análise e Desenvolvimento de Sistemas**, com foco em criar soluções práticas, escaláveis e bem estruturadas.  
-Gosto de transformar ideias em código limpo e eficiente, sempre buscando evoluir através de projetos reais.
+Desenvolvedor Full-Stack e estudante de Análise e Desenvolvimento de Sistemas, focado em criar soluções práticas, escaláveis e bem estruturadas.  
+Gosto de transformar ideias em código limpo e eficiente por meio de projetos reais.
 
-Atualmente, estou desenvolvendo meu **portfólio pessoal** e explorando tecnologias modernas de frontend e backend.
+Atualmente trabalho no meu portfólio pessoal e em aplicações com foco em backend.
 
 ---
 
-## 🚀 No que estou trabalhando
-- 🔹 Portfólio pessoal com foco em performance e acessibilidade  
-- 🔹 APIs backend utilizando Python e FastAPI  
-- 🔹 Aplicações full-stack com frameworks modernos  
+## 🚀 Foco Atual
+- Portfólio pessoal com foco em performance e acessibilidade  
+- APIs backend utilizando Python e FastAPI  
+- Aplicações full-stack com tecnologias modernas  
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Principais Habilidades
-- **Linguagens:** Python, JavaScript, TypeScript  
-- **Frontend:** HTML, CSS, React, Next.js  
-- **Backend:** Node.js, Django, FastAPI  
-- **Bancos de Dados:** MySQL, MongoDB  
-
-### Frameworks & Ferramentas
-- Flask, Express, Docker  
-- Git, Postman  
-- Firebase, Vercel, Google Cloud  
+**Linguagens:** Python, JavaScript, TypeScript  
+**Frontend:** HTML, CSS, React, Next.js  
+**Backend:** Node.js, Django, FastAPI  
+**Bancos de Dados:** MySQL, MongoDB  
+**Ferramentas:** Git, Docker, Postman, Firebase, Vercel, Google Cloud  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevinscodes&theme=radical&hide_border=false&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=keviinnmoreira&theme=radical&hide_border=false&count_private=true" />
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinscodes&theme=radical&hide_border=false" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinscodes&theme=radical&hide_border=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keviinnmoreira&theme=radical&hide_border=false&layout=compact" />
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-moreira-15a9ba244/)
-- 💻 [GitHub](https://github.com/kevinscodes)
+- 💻 [GitHub](https://github.com/keviinnmoreira)
 - 📷 [Instagram](https://www.instagram.com/moreira_keviiin/)
 - 💬 [Discord](https://www.discord.gg/gcnFtFWt2g)
 
 ---
 
-> *"Programar não é apenas escrever código — é resolver problemas reais com clareza e propósito."*
+> *Code is not just about syntax — it's about solving real problems with clarity.*
