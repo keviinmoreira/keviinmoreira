@@ -5,10 +5,10 @@
 <p align="left"> 
  👋 Hi, I'm Kevin Moreira
 
-  Full-Stack Developer and Systems Analysis student focused on building practical, scalable, and well-structured solutions.  
-  I enjoy turning ideas into clean, efficient code through real-world projects.
+   Full-Stack Developer and Systems Analysis student focused on building practical, scalable, and well-structured solutions.  
+   I enjoy turning ideas into clean, efficient code through real-world projects.
   
-  Currently working on my personal portfolio and backend-focused applications.
+   Currently working on my personal portfolio and backend-focused applications.
 </p>
 
 <p align="left">
