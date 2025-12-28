@@ -54,8 +54,6 @@
 
 </p>
 
-<hr>
-
 # 🇧🇷 Olá, eu sou o Kevin Moreira
 
 Desenvolvedor Full-Stack e estudante de Análise e Desenvolvimento de Sistemas, focado em criar soluções práticas, escaláveis e bem estruturadas.  
@@ -80,15 +78,5 @@ Atualmente trabalho no meu portfólio pessoal e em aplicações com foco em back
 **Bancos de Dados:** MySQL, MongoDB  
 **Ferramentas:** Git, Docker, Postman, Firebase, Vercel, Google Cloud  
 
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=keviinnmoreira&theme=radical&hide_border=false&count_private=true" />
-
-</div>
-
----
 
 > *Code is not just about syntax — it's about solving real problems with clarity.*
