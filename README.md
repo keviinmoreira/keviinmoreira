@@ -1,5 +1,7 @@
 ![Banner](./banner.png)
 
+---
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
@@ -8,6 +10,8 @@
    Full-Stack Developer and Systems Analysis student focused on building practical, scalable, and well-structured solutions.  
    I enjoy turning ideas into clean, efficient code through real-world projects.
 </p>
+
+---
   
   🚀 Current Focus:
   
@@ -26,6 +30,8 @@
 **Tools:** Git, Docker, Postman, Firebase, Vercel, Google Cloud, AWS, Azure  
 </p>
 
+---
+
 <p align="left">
   💌 Let's connect our ideas: ⤵️
 </p>
@@ -39,5 +45,7 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="https://www.facebook.com/kevin.moreira.383323" alt="Facebook"/></a>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/moreira_keviiin/" alt="Instagram"/></a>
+
+ ---
 
 > *Code is not just about syntax — it's about solving real problems with clarity.*
