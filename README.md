@@ -42,16 +42,6 @@
 **Databases:** MySQL, MongoDB  
 **Tools:** Git, Docker, Postman, Firebase, Vercel, Google Cloud  
 
-📊 GitHub Stats
-
-<div align="center">
-
-[![keviinmoreira](https://github-readme-stats.vercel.app/api?username=keviinmoreira&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keviinnmoreira&theme=radical&hide_border=false&layout=compact" />
-
-</div>
-
 </p>
 
 # 🇧🇷 Olá, eu sou o Kevin Moreira
