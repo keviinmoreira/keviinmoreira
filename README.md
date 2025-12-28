@@ -13,7 +13,9 @@
   
 - Personal portfolio with performance and accessibility in mind  
 - Backend APIs using Python and FastAPI  
-- Full-stack applications with modern web technologies  
+- Full-stack applications with modern web technologies
+  
+---
 
 🛠️ Tech Stack:
 
