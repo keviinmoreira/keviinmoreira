@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  # 👋 Hi, I'm Kevin Moreira
+ 👋 Hi, I'm Kevin Moreira
 
   Full-Stack Developer and Systems Analysis student focused on building practical, scalable, and well-structured solutions.  
   I enjoy turning ideas into clean, efficient code through real-world projects.
@@ -28,16 +28,13 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="https://www.facebook.com/kevin.moreira.383323" alt="Facebook"/></a>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/moreira_keviiin/" alt="Instagram"/></a>
-</p>
-
-## 🚀 Current Focus
+  
+  🚀 Current Focus
 - Personal portfolio with performance and accessibility in mind  
 - Backend APIs using Python and FastAPI  
 - Full-stack applications with modern web technologies  
 
----
-
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 **Languages:** Python, JavaScript, TypeScript  
 **Frontend:** HTML, CSS, React, Next.js  
@@ -45,9 +42,8 @@
 **Databases:** MySQL, MongoDB  
 **Tools:** Git, Docker, Postman, Firebase, Vercel, Google Cloud  
 
----
+📊 GitHub Stats
 
-## 📊 GitHub Stats
 <div align="center">
 
 [![keviinmoreira](https://github-readme-stats.vercel.app/api?username=keviinmoreira&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
@@ -56,7 +52,7 @@
 
 </div>
 
----
+</p>
 
 <hr>
 
