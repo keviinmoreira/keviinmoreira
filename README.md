@@ -7,12 +7,21 @@
 
    Full-Stack Developer and Systems Analysis student focused on building practical, scalable, and well-structured solutions.  
    I enjoy turning ideas into clean, efficient code through real-world projects.
-  
-   Currently working on my personal portfolio and backend-focused applications.
 </p>
+  
+  🚀 Current Focus:
+  
+- Personal portfolio with performance and accessibility in mind  
+- Backend APIs using Python and FastAPI  
+- Full-stack applications with modern web technologies  
 
-<p align="left">
-  🤖 Programming Languages: C/C++/C#, Python, Javascript 
+🛠️ Tech Stack:
+
+**Languages:** Python, JavaScript/TypeScript, C/C++/C#  
+**Frontend:** HTML, CSS, React, Next.js  
+**Backend:** Node.js, Django, FastAPI  
+**Databases:** MySQL, MongoDB
+**Tools:** Git, Docker, Postman, Firebase, Vercel, Google Cloud, AWS, Azure  
 </p>
 
 <p align="left">
@@ -28,45 +37,5 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="https://www.facebook.com/kevin.moreira.383323" alt="Facebook"/></a>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/moreira_keviiin/" alt="Instagram"/></a>
-  
-  🚀 Current Focus
-- Personal portfolio with performance and accessibility in mind  
-- Backend APIs using Python and FastAPI  
-- Full-stack applications with modern web technologies  
-
-🛠️ Tech Stack
-
-**Languages:** Python, JavaScript, TypeScript  
-**Frontend:** HTML, CSS, React, Next.js  
-**Backend:** Node.js, Django, FastAPI  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, Docker, Postman, Firebase, Vercel, Google Cloud  
-
-</p>
-
-# 🇧🇷 Olá, eu sou o Kevin Moreira
-
-Desenvolvedor Full-Stack e estudante de Análise e Desenvolvimento de Sistemas, focado em criar soluções práticas, escaláveis e bem estruturadas.  
-Gosto de transformar ideias em código limpo e eficiente por meio de projetos reais.
-
-Atualmente trabalho no meu portfólio pessoal e em aplicações com foco em backend.
-
----
-
-## 🚀 Foco Atual
-- Portfólio pessoal com foco em performance e acessibilidade  
-- APIs backend utilizando Python e FastAPI  
-- Aplicações full-stack com tecnologias modernas  
-
----
-
-## 🛠️ Tecnologias
-
-**Linguagens:** Python, JavaScript, TypeScript  
-**Frontend:** HTML, CSS, React, Next.js  
-**Backend:** Node.js, Django, FastAPI  
-**Bancos de Dados:** MySQL, MongoDB  
-**Ferramentas:** Git, Docker, Postman, Firebase, Vercel, Google Cloud  
-
 
 > *Code is not just about syntax — it's about solving real problems with clarity.*
